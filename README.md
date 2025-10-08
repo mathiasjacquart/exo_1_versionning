@@ -1,15 +1,16 @@
 # VERSIONNING EXERCICE 
 
-Repository Exercice
+**_Repository Exercice_**
 
-## Sous-titre
+_Présentation_
 
-Ici est le sous-titre
+## Mes hobbies
 
-* Element 1
-    * Element 1.1
-* Element 2 
-* Element 3
+* Musique
+    * Basse
+    * Musique électronique
+* Jeux vidéos
+* Animaux
 
 ### Tableau 
 
