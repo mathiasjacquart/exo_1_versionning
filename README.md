@@ -1,4 +1,4 @@
-### VERSIONNING EXERCICE 
+# VERSIONNING EXERCICE 
 
 Repository Exercice
 
